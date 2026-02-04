@@ -53,3 +53,8 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+The Room/Library
+The Room/Logs
+The Room/.vscode
+The Room/The Room_BurstDebugInformation_DoNotShip

@@ -1,0 +1,36 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "The Room", "The Room", "{CC304233-CF56-F329-5B19-7F04FB124BE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "The Room\Assembly-CSharp-Editor.csproj", "{BB32FC7A-0AC1-595D-8B07-E11FF4443471}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "The Room\Assembly-CSharp.csproj", "{664C5E59-8546-1077-F876-67E6E3E90BA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB32FC7A-0AC1-595D-8B07-E11FF4443471}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB32FC7A-0AC1-595D-8B07-E11FF4443471}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB32FC7A-0AC1-595D-8B07-E11FF4443471}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB32FC7A-0AC1-595D-8B07-E11FF4443471}.Release|Any CPU.Build.0 = Release|Any CPU
+		{664C5E59-8546-1077-F876-67E6E3E90BA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{664C5E59-8546-1077-F876-67E6E3E90BA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{664C5E59-8546-1077-F876-67E6E3E90BA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{664C5E59-8546-1077-F876-67E6E3E90BA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BB32FC7A-0AC1-595D-8B07-E11FF4443471} = {CC304233-CF56-F329-5B19-7F04FB124BE1}
+		{664C5E59-8546-1077-F876-67E6E3E90BA8} = {CC304233-CF56-F329-5B19-7F04FB124BE1}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3FD6BFF-AF41-495F-B04D-E56BE5E9EDE9}
+	EndGlobalSection
+EndGlobal
